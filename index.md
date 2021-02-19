@@ -14,6 +14,9 @@
   Data Cleaning: R (tidyverse, lubridate), Python (numpy, pandas, scikit-learn)
   <br>
   
+  Web Scraping: R (rvest)
+  <br>
+  
   Algorithm: Linear/Logistics Regression, Principle Component Analysis (PCA), K-means, KNN Classifier, Naive Bayes Classifier, E-M algorithm, Support Vector Machine (SVM), Neural Network, Decision Tree, Random Forest, Bagging, Natural Language Processing (NLP)
   <br>
   

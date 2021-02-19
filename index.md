@@ -30,6 +30,11 @@
 ### Project 
 ##### Click on the project titles below to view more details.
 
+[Heat Smart Orkney Demand-Response Valuation Analysis - Python](/pdf/HSO-Presentation.pdf) - Team project with William Flynn, Rayyan Sidi Ali Mebarek, Gopal Juneja, Lily Nguyen
+<img src="images/HSO-preview.png?raw=true"/>
+Tech: Python, NPV analysis
+
+---
 [OC&Gym Churn Rate Analysis - Python](/pdf/OC&Gym-Presentation.pdf) - Team project with William Flynn, Rayyan Sidi Ali Mebarek, Gopal Juneja, Lily Nguyen
 <img src="images/occ_gym.png?raw=true"/>
 Tech: Python, cohort analysis

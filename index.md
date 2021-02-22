@@ -45,6 +45,7 @@ Tech: Python, cohort analysis
 ---
 [AirBnb EDA Visualisation - R](/pdf/Airbnb_Vis.pdf) - Team project with William Flynn, Rayyan Sidi Ali Mebarek, Gopal Juneja, Lily Nguyen
 <img src="images/airbnb_eda2.png?raw=true"/>
+github page (https://github.com/LEEANQIAN/Airbnb-Visualisation)
 Tech: R
 
 ---

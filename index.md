@@ -45,7 +45,7 @@ Tech: Python, cohort analysis
 ---
 [AirBnb EDA Visualisation - R](https://github.com/LEEANQIAN/Airbnb-Visualisation) - Team project with William Flynn, Rayyan Sidi Ali Mebarek, Gopal Juneja, Lily Nguyen
 <img src="images/airbnb_eda2.png?raw=true"/>
-[Presentation] (/pdf/Airbnb_Vis.pdf)
+[Presentation](/pdf/Airbnb_Vis.pdf)
 Tech: R
 
 ---
@@ -58,7 +58,7 @@ Experiment Design: Basic factorial design with two factors and one block
 ---
 [Seattle House Price Analysis - Python](https://github.com/LEEANQIAN/STATS-131-group-project) - Team project with Yaqiong Liu, Chen Chen
 <img src="images/seattle_house.png?raw=true"/>
-[Presentation] (/pdf/project_slides.pdf)
+[Presentation](/pdf/project_slides.pdf)
 Tech: Python
 
 ---
